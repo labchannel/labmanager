@@ -1,0 +1,7 @@
+D:\Priyanka\VSProject\LabManager\BLL\bin\Debug\BLL.dll
+D:\Priyanka\VSProject\LabManager\BLL\bin\Debug\BLL.pdb
+D:\Priyanka\VSProject\LabManager\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Priyanka\VSProject\LabManager\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Priyanka\VSProject\LabManager\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Priyanka\VSProject\LabManager\BLL\obj\Debug\BLL.dll
+D:\Priyanka\VSProject\LabManager\BLL\obj\Debug\BLL.pdb
